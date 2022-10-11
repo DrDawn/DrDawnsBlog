@@ -1,0 +1,13 @@
+---
+title: "Add Code Chunk"
+author: "Dr Dawn"
+date: "2022-10-11"
+categories: [R, analysis, Data Literacy]
+image: "image.jpg"
+---
+
+This is a post about the Infer process.
+
+```{r}
+1 + 1
+```
