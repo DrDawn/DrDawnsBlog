@@ -1,0 +1,14 @@
+{
+  "hash": "3275809beb4f4b832ee6e343d5a780c8",
+  "result": {
+    "markdown": "---\ntitle: \"Add Code Chunk\"\nauthor: \"Dr Dawn\"\ndate: \"2022-10-11\"\ncategories: [R, analysis, Data Literacy]\nimage: \"image.jpg\"\n---\n\n\nThis is a post about the Infer process.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
