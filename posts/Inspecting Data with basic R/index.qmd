@@ -1,6 +1,6 @@
 ---
 title: "Inspecting Data with Simple R Functions"
-author: "Dr Dawn"
+author: "Dr Dawn Wright"
 date: "2022-10-11"
 categories: [news, code, analysis]
 image: "image.jpg"
