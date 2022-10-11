@@ -1,0 +1,13 @@
+---
+title: "Inspecting Data with Simple R Functions"
+author: "Dr Dawn"
+date: "2022-10-11"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
