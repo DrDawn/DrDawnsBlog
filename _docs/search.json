@@ -9,7 +9,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Dr Dawns Data Literacy Blog",
+    "title": "Data Literacy Blog",
     "section": "",
     "text": "R\n\n\nanalysis\n\n\nData Literacy\n\n\n\n\n\n\n\n\n\n\n\nOct 11, 2022\n\n\nDr Dawn\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 11, 2022\n\n\nDr Dawn Wright\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\nanalysis\n\n\nData Literacy\n\n\n\n\n\n\n\n\n\n\n\nOct 11, 2022\n\n\nDr Dawn\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 8, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
@@ -21,9 +21,9 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts/Inspecting Data with basic R/index.html",
-    "href": "posts/Inspecting Data with basic R/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/Inspecting-Data-with-R/index.html",
+    "href": "posts/Inspecting-Data-with-R/index.html",
+    "title": "Inspecting Data with Simple R Functions",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
   },

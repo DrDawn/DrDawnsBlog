@@ -2,10 +2,10 @@ project:
   type: website
   output-dir: _docs
 website:
-  title: "QuartoBlog"
+  title: "Dr Dawn Wright"
   navbar:
     right:
-      - about.qmd
+      - about.qmd, r.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter

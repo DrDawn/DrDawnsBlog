@@ -1,5 +1,5 @@
 ---
-title: "Dr Dawns Data Literacy Blog"
+title: "Data Literacy Blog"
 listing:
   contents: posts
   sort: "date desc"
